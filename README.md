@@ -25,14 +25,13 @@ Nuestro objetivo es explorar y analizar el dataset creditcard.csv para comprende
 
 🔍 Exploración inicial (EDA)
 
-El análisis preliminar incluye:
-    1. Verificación de tipos de datos, memoria, duplicados y valores faltantes.
-    2. Resumen de variables numéricas (V1..V28, Amount, Time).
-    3. Identificación de la variable objetivo Class (0 = no fraude, 1 = fraude).
-    4. Visualizaciones iniciales:
-        Distribución de la variable objetivo (balance de clases).
-        Distribución de Amount y Time con transformaciones logarítmicas.
-        Matriz de correlación de las variables numéricas principales.
+1. Verificación de tipos de datos, memoria, duplicados y valores faltantes.
+2. Resumen de variables numéricas (V1..V28, Amount, Time).
+3. Identificación de la variable objetivo Class (0 = no fraude, 1 = fraude).
+4. Visualizaciones iniciales:
+  4.1 Distribución de la variable objetivo (balance de clases).
+  4.2 Distribución de Amount y Time con transformaciones logarítmicas.
+  4.3 Matriz de correlación de las variables numéricas principales.
 
 
 📌 Limitaciones del dataset
